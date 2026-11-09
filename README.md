@@ -25,9 +25,11 @@ start index.html
 
 ## 发布成网页
 
-1. 打开仓库的 Settings，左侧进入 Pages；
-2. 来源选 Deploy from a branch，分支选 `main`，目录选根目录；
-3. 保存后等待一到两分钟，访问 `https://lengjingalarm.github.io/yemufist/`。
+已通过 Settings → Pages 开启发布：来源 Deploy from a branch，分支 `main`，目录 `/ (root)`。
+
+线上地址：`https://lengjingalarm.github.io/yemufist/`
+
+每次推送到 `main` 后会自动重新构建，通常一分钟内生效；构建记录在仓库的 Actions 里，工作流名为 pages build and deployment。
 
 ## 还可以接着练什么
 
