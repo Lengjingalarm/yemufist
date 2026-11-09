@@ -27,7 +27,7 @@ start index.html
 
 1. 打开仓库的 Settings，左侧进入 Pages；
 2. 来源选 Deploy from a branch，分支选 `main`，目录选根目录；
-3. 保存后等待一到两分钟，访问 `https://Lengjingalarm.github.io/yemufist/`。
+3. 保存后等待一到两分钟，访问 `https://lengjingalarm.github.io/yemufist/`。
 
 ## 还可以接着练什么
 
